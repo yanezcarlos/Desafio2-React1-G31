@@ -1,3 +1,29 @@
+Datos correctos de correo y contraseña
+
+correoVal = "correo@correo.com";
+contraseñaVal = "contraseña";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
